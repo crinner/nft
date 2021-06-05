@@ -1,4 +1,6 @@
 # ClausR Map Design - Non-Fungible Tokens
-This page contains the folders for NFT icons. See https://sites.google.com/view/clausr-maps/ for more information about my work. 
+This page contains the NFT icons representing some of my artwork on the Juungle marketplace. The watermarked "original" image shows the colours, full extent, and correct width x height ratio of the underlying artwork. Please ensure that these fit your intended display purpose, e.g. desktop wallpaper, Zoom background, or printed graphics. 
 
-If you purchased an NFT, please email the Juunle transaction ID to _claus dot rinner at gmail dot com_ to receive the original, high-resolution artwork. 
+If you purchased an NFT, please email the transaction ID to _claus dot rinner at gmail dot com_ to receive the original, high-resolution artwork via email or file-sharing. The copyright and all intellectual property rights in the artwork remains with the creator, myself. Purchasing the NFT gives you the exclusive license to display and resell the connected artwork. Each NFT exists only once, and therefore the connected artwork can be used legitimately only by the NFT owner. I will delete my copy once you confirm you have received and securly stored your copy. I will only retain the NFT icons on this site to support blockchain scans and future marketplace listings. (However, I cannot guarantee the icon listing in perpetuity - please securely store the NFT token ID as your proof of ownership.)
+
+See https://sites.google.com/view/clausr-maps/ for more information about my work. 
